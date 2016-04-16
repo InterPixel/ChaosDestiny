@@ -70,3 +70,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+Library/*
+*.userprefs
+*.sublime-project
+*.sublime-workspace
