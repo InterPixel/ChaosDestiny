@@ -2,7 +2,7 @@
 
 A 2D Rogue Like RPG Dungeon Crawling Android Game
 
-That basically explain all
+That basically explains all
 
 
 
